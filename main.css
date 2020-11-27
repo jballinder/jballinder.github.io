@@ -319,10 +319,14 @@ li {
 }
 
 .profile-img {
-    width: 25rem;
+    width: 50rem;
     flex: 1;
 }
 
+.portfolio-img {
+    width: 50rem;
+    
+}
 
 
 .portfolio-img2 {
