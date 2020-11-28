@@ -366,6 +366,23 @@ li {
     margin: 1rem 0;
 }
 
+.portfolio-description3 {
+    flex: 1;
+    margin-top: 10rem;
+}
+
+.portfolio-description3 h6 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    opacity: 0.3;
+}
+
+.portfolio-description3 h1 {
+    font-size: 3rem;
+    font-weight: 300;
+    margin: 1rem 0;
+}
 .portfolio-description .cta {
     display: inline-block;
     margin-top: 2.5rem;
